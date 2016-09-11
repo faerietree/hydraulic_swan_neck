@@ -18,7 +18,8 @@ Requires for operation:
 Pictures (revision 1)
 ---
 
-Operators
+<img src="hydraulic_swan_neck.view_from_front_left_to_back_right.jpg" alt=""/>
+
 <img src="hydraulic_swan_neck.view_from_front_to_back.jpg" alt=""/>
 
 
