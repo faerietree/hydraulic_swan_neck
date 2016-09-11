@@ -2,10 +2,17 @@ Hydraulic swan neck
 ===
 
 
-Solution for:
+Solution for function(s):
 ---
 * sucking in fluids
 * delivering fluids to buildings (paint, fire fight water), meadows (wet dung), ...
+
+Solution for environmental issues:
+---
+* Meeting EU agricultural regulations by modifying a now illegal tank up and wide spraying vehicle or when only one opening (exit and entry at the same time) is available.
+* Being forced to have attached a fixed / static swan neck (~700€) and cut a new hole and pipe interface for sucking in fluids (sounds expensive, huh?). (There is a small version too, costing ~300€).
+
+
 
 Requires for operation:
 ---
