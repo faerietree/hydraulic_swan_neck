@@ -2,10 +2,18 @@ Hydraulic swan neck
 ===
 
 
+What
+---
+* Hydraulic arm construction
+* Flexible holder for a flipped sheet metal at exit to spray downwards instead of illegal upwards direction (aim: drops instead of gases).
+
+
 Solution for function(s):
 ---
 * sucking in fluids
 * delivering fluids to buildings (paint, fire fight water), meadows (wet dung), ...
+
+
 
 Solution for environmental issues:
 ---
