@@ -5,8 +5,8 @@ Hydraulic swan neck
 What
 ---
 * Hydraulic arm construction
-* Flexible holder for a flipped sheet metal at exit to spray downwards instead of illegal upwards direction (aim: drops instead of gases).
-<img src="fluid_spreading_attachment.jpg" alt=""/>
+* Flexible holder for a <a href="fluid_spreading_attachment.jpg">flipped sheet metal</a> at exit to spray downwards instead of illegal upwards direction (aim: drops instead of gases).
+
 
 
 Solution for function(s):
